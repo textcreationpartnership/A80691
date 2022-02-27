@@ -1,0 +1,810 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The court career death shaddow'd to life. Or Shadowes of life and death. A pasquil dialogue seriously perused and highly approved by the clearest judgments.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80691</idno>
+            <idno type="STC">Wing C6586</idno>
+            <idno type="STC">Thomason E989_26</idno>
+            <idno type="STC">ESTC R208254</idno>
+            <idno type="EEBO-CITATION">99867218</idno>
+            <idno type="PROQUEST">99867218</idno>
+            <idno type="VID">168652</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80691)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168652)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E989[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The court career death shaddow'd to life. Or Shadowes of life and death. A pasquil dialogue seriously perused and highly approved by the clearest judgments.</title>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the Year 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dialogues, English --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168652:1" rendition="simple:additions"/>
+            <p>THE Court Career, DEATH Shaddow'd to life. OR SHADOWES OF LIFE and DEATH. A Paſquil Dialogue Seriouſly peruſed and highly approved by the cleareſt Judgments.</p>
+            <figure>
+               <figDesc>depiction of a naked long-haired male figure or Charles I, wearing a crown surrounded by a halo, holding a lit torch among classical columns; and a naked long-haired male figure or Oliver Cromwell, holding a lit torch in a cave surrounded by flames</figDesc>
+            </figure>
+            <p>Printed in the Year 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:168652:2"/>
+            <pb n="3" facs="tcp:168652:2"/>
+            <head>The COVRT Career.</head>
+            <sp>
+               <speaker>Charles.</speaker>
+               <p>
+                  <hi>HOW now NOLL! what wind blew you thither?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>The fierceſt and furiouſeſt <hi>Whirl<g ref="char:EOLhyphen"/>wind</hi> that ever breathed on the <hi>middle Region.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Charles.</speaker>
+               <p>
+                  <hi>Sure,</hi> Nol, <hi>you could not be ſenſible of any ſuch</hi> Blaſt, <hi>having entred ſuch ſtreight Liſts in your combate with Death: and after ſo many</hi> Parliamentary diſſolutions, <hi>to prepare for your own.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nol.</speaker>
+               <p>It is true, if any hope had been left to ſuch a forlorne wretchling, it was high time for me to <hi>prepare</hi> for that which I never before thought on. Furies without me; fears and frights within me conſtantly encountred me: horror, horror; deſpaire and horror, my ſole diſ-conſolate conſorts at my de<g ref="char:EOLhyphen"/>parture. O how hard a task is it for that man to die, who has no other hope then to die for ever! And ſuch was my ir<g ref="char:EOLhyphen"/>reparable condition.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>In this ſo fiery and furious a conflict, your eares ſurely,</hi> Nol, <hi>were</hi> ſecured <hi>from the noiſe of any</hi> Whirlewind: <hi>your ſtorm within</hi> barracado'd <hi>your</hi> ſenſes <hi>from hearing any tempeſt abroad.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nol.</speaker>
+               <p>It did ſo, but after my hapleſs and hopeleſs deſcent to this infernal Lake, the juſt portion of my uſurped com<g ref="char:EOLhyphen"/>mand; <hi>Eridamus</hi> an active nimble <hi>Spirit;</hi> by <hi>Pluto</hi>'s expreſs order, being appointed our State-Scout or Emiſſary, (this re<g ref="char:EOLhyphen"/>lation is true upon my <hi>Naked Honour</hi>) he returned me a <hi>Paſ<g ref="char:EOLhyphen"/>quil</hi>
+                  <pb n="4" facs="tcp:168652:3"/>from the middle Region, writ by ſome ſtigmatizing pen (as what quil now not ſet a work to divulge my ſhame?) in theſe lines:
+<floatingText xml:lang="eng" type="poem">
+                     <body>
+                        <l>'Tis an <hi>ill wind</hi> does good to no man bring,<note place="margin">To <hi>Oliver</hi> Protector, upon the Whirl<g ref="char:EOLhyphen"/>wind. <hi>Sep.</hi> 3. 1658.</note>
+                        </l>
+                        <l>Which was made good by our uſurping King;</l>
+                        <l>Whoſe braving pomp farr lighter then a feather</l>
+                        <l>Flew in a <hi>Whirlwind,</hi> the Lord knows whither.</l>
+                     </body>
+                  </floatingText>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>But by this,</hi> Nol, <hi>you know ſufficiently to what coaſt the wind has blown you: and to what port</hi> Charon <hi>has brought you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nol.</speaker>
+               <p>O do not jeer me in my miſery! your piety has ſea<g ref="char:EOLhyphen"/>ted you in a Throne of glory; my tyranny has ſtated me in a depth of boundleſs infelicity. Do not forget your former goodneſs: you had a heart richly indew'd with princely pitty.</p>
+            </sp>
+            <sp>
+               <speaker>Charl.</speaker>
+               <p>
+                  <hi>So ſhould it be heartily opened unto thee, though my profeſt enemy, if my pitty could redeem thee, or that it were law<g ref="char:EOLhyphen"/>ful for me to pitty thee. I may ſafely appeal to thoſe who have perſecuted me and mine without a cauſe; if my heart has not been ever a</hi> ſtranger <hi>to</hi> revenge, <hi>but a ready</hi> harbourer <hi>of</hi> remorſe: <hi>None ever came to me with a tear in their eye, which my hand could not wipe off.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Oli.</speaker>
+               <p>This is all true; yet the <hi>jealouſie</hi> of our <hi>Councel</hi> was ſuch, as they durſt not believe you. Which diſtruſt, it was our part who were fiſhing with <hi>others lines</hi> in troubled waters, to foment and inlarge; leſt thoſe who by Covenant had made themſelves ours, might by confiding in your clemency, fail and fall from us. It was mine higheſt artifice therefore to de<g ref="char:EOLhyphen"/>liver other principles then they had till then received: ſuch doctrinal grounds as I by the aſſiſtance of my faithful Chap<g ref="char:EOLhyphen"/>lain <hi>Hugh Peters,</hi> (whom after the recovery of his wits, I hope to ſee here ere long) infuſed into the credulous ears and malleable hearts of our <hi>Church militant:</hi> as our <hi>godly hearers</hi> diſavowed all truſt to your promiſes; holding them onely ſuch
+<pb n="5" facs="tcp:168652:3"/>as ſerved for your own <hi>intereſt,</hi> and no further.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>Pray thee</hi> Nol, <hi>what arguments or inſtances might thou and thine active complices uſe to caiole thy</hi> aſſembly <hi>into this belief.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Oli.</speaker>
+               <p>Surely you cannot forget your ingratitude to your wiſeſt and faithfulleſt ſervant <hi>Strafford;</hi> in ſo highly approving and publikely atteſting the actions of his life; and after all this in ſigning and ſubſcribing his commiſsion for death: this it was, I muſt freely tell you, that much diſadvantaged your cauſe, and advanced ours. For we told them, and they eaſily acquieſced to our reaſons, how could they poſſibly believe him, who deceived his own Creature, the Rudder of his State, who ſo conſtantly relyed on him?</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>I muſt confeſs that was prest to purpoſe: neither did any thing in my thoughts ever</hi> un-king <hi>me more then that unprincely action; but timing</hi> Rabbyes, <hi>God forgive them, if they may be prayed for, wronght too ſtrongly by force of their opinions on my re<g ref="char:EOLhyphen"/>ſenting conſcience. Fathers and Doctors of the primitive Church they alledged, but whether truely or falſely quoted, the importu<g ref="char:EOLhyphen"/>nity of the ſtate, and neceſſity of mine own condition would allot me no time to examine. Only one real</hi> Prelate <hi>I had, who well de<g ref="char:EOLhyphen"/>ſerved that reverend Title: and like a perſon of a pious and conſci<g ref="char:EOLhyphen"/>entious quality adviſed me in that caſe to do what I</hi> ought, <hi>and not what I</hi> might. <hi>And how derogatory it was from the preroga<g ref="char:EOLhyphen"/>tive of a Prince, either to be inforced by menaces, or induced by promiſes, to act any thing below his Honour or courſe of judica<g ref="char:EOLhyphen"/>ture.</hi>
+               </p>
+               <p>
+                  <hi>In the recollection of theſe I have no leſs ingenuouſly then peni<g ref="char:EOLhyphen"/>tentially acknowledged my error; nay, ſo pretious was the memo<g ref="char:EOLhyphen"/>ry of his life, and ſo reſentive the impreſſion of his loſs, as I be-became nothing amated at the ſight of the Block, nor preſent<g ref="char:EOLhyphen"/>ment of the Ax: holding the Sacrifice of my Head unfit to hold in competition, with the inexcuſable though not inexpiable qua<g ref="char:EOLhyphen"/>lity of his death.</hi>
+               </p>
+               <p>
+                  <hi>So much have I publiſhed to the whole world, wherewith I hope it reſts ſatisfied: howſoever, ſure I am, that His indignation, to whoſe mercy I appealed, became appeaſed.</hi>
+               </p>
+            </sp>
+            <pb n="6" facs="tcp:168652:4"/>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>O my tormented ſoul; how happy thou, if thou wer't in the ſame condition!</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>Yea, NOL, but all thoſe</hi> wiſhes <hi>now will not make thee ſo happy an</hi> Houſhoulder; <hi>thou ſeeſt now in that eternity of thy affliction, what difference there is betwixt a juſt Monarchy and an uſurped Tyranny.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>O how I fry in the renewal of that ambitious ſtory!</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>Deſiſt then to aggravate my miſtakes, in diſeſteeming my own; and foſtring thoſe</hi> Snakes <hi>in my Boſome, who deſigned my ruine. Thou feeleſt now by bitter experience that in the paſſage of injuries, it is far better to ſuffer, then inflict, to appear a patient, then an Agent, be it in relation to our ſelves never ſo important. This was my temper, and it has re-doubled mine honour.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>But my humour was clear of another nature; there was nothing of harder digeſtion with me, then bearing of an injury; one diſguſt once imboſom'd, would raze out an Ili<g ref="char:EOLhyphen"/>ad of years ſervice. I was ever a ſerious obſerver of that example of <hi>Dionyſius,</hi> who was ſaid to uſe his friends, as he did his bottles; when he had uſe for them, he kept them by him; when he had none, that they ſhould not trouble him and lie in his way, he hung them up. This might be inſtan<g ref="char:EOLhyphen"/>ced in my diſregard to LAMBERT for whom, though I ever cunningly reſerv'd a familiar hugg, and a civil carreſs, yet I never appeared really the ſame I profeſt: witneſs my <hi>diſ<g ref="char:EOLhyphen"/>commiſſionating</hi> of him, and the <hi>prejudice</hi> I did to his <hi>Relations:</hi> Not one of them ſcap'd my ſcourge.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>Truſt me NOLL, this was</hi> ingratitude <hi>above all de<g ref="char:EOLhyphen"/>grees of compariſon; for how couldſt thou in common civility ſo ſleight or diſvalue him, who had been ſuch an incomparable aſſistant in all your State-ſervice?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>It is confeſt; no Commander expos'd himſelf to more perſonal danger, advanc'd our State-ſervice better, nor came off with more gallantry and accompliſh'd honour: But whereto tended all this? All this, or whatſoever diſ<g ref="char:EOLhyphen"/>plat'd the Sails of his Victorious Fame, (as none ever archiev<g ref="char:EOLhyphen"/>ed more with leſs ſtrength) begot in me more hate then love. Envy is ever Ambitions Darling: Soveraignty partaks ſo much of ſelf-intereſt, as it will admit of no Competition.</p>
+               <pb n="7" facs="tcp:168652:4"/>
+               <p>
+                  <hi>Seianu's</hi> ſplendor ſtruck him quite out of <hi>Tiberiu's</hi> favour Had not his ſucceſs brought him to ſwell ſo high, he had ne<g ref="char:EOLhyphen"/>ver ſhrunk ſo low. And to unboſome my ſelf unto you (for now it skills not much if all my thoughts were legible) it was my firm purpoſe, as I had intimated to <hi>T H.</hi> with others of my ſecreteſt and confidenteſt Favourites; not onely to make his name odious, but all ſuch as had performed any eminent ſervice; that their Eclipſe might inlarge my light, their contempt ſecure my riſing. For howſoever I pretended or had formerly diſ-avowed, a Diadem was my aim; ſo as <hi>Lamberts</hi> oppoſition of it, and his diſſwading me from it, was the firſt occaſional ground of that irreparable breach betwixt us; and had fallen heavy upon him, if Fate had not prevented me, and given him new breath. For ſo inveterate grew my hate, as my reſolution was to change his plantation by removing him from <hi>Wimbleton:</hi> and beſtowing on him an Habitation more obſcure, and leſs popular. The <hi>York<g ref="char:EOLhyphen"/>ſhire</hi> General likewiſe, could not for all his retirement ſecure his perſon from cenſure; though I feared not his <hi>Head,</hi> I knew he had a <hi>doing hand,</hi> and a <hi>daring heart.</hi> In a word, I had a <hi>yellow eye</hi> over all ſuch perſons as had been obſerved to ap<g ref="char:EOLhyphen"/>pear eminent in any action; and leſt their ſpirits ſhould riſe above their juſt bounds, I brought them by one device or other under a cloud: or cooled their courage by enjoining them to more remote and inconſiderable quarters. The main work was done, which made me neglect the workmen; whom I removed from the building leſt they ſhould boaſt of the work they had done, and conſequently detract from my fame, wherein my continued ſucceſs reflecting on the glory of mine actions, would admit no Corrival.</p>
+               <p>In making <hi>Barkstead</hi> Lieutenant oth' Tower, I pleaſed my own fancy; holding him not much unlike thoſe Beaſts that were kept there: and uſually ſhewn rather for affrighting thoſe that lookt on them, then preſerving thoſe Places that kept them.</p>
+               <p>In his advancement to that place, I had my deſign. It was my intendment to create him my <hi>Ieweller:</hi> wherein as it was his office ignorantly to admire them, and numerouſly gather
+<pb n="8" facs="tcp:168652:5"/>them; ſo was it in my thoughts when he leaſt lookt for it, to ſeize on them, and adorn my <hi>Relative Damaſella's</hi> with them.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>Mean time</hi> Nol, <hi>it ſeems you kept a brave Quarter at Court.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Oli.</speaker>
+               <p>Neither much ſtate, nor great ſtore. Not a diſh but it was ſerved up with more care then coſt: More providence in preſerving the ſcattered fragments of a needy reverſion, then former times had done for a whole months proviſion.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>
+                  <hi>It ſeems your frugal Court was wholly guiltleſs of ſurfets.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Olli.</speaker>
+               <p>In very deed, it was more frugal then frolick, unleſs at the <hi>marriage</hi> of ſome of our own <hi>Relations,</hi> and then <hi>upſe freze,</hi> He was not modiſh that would not be drunkiſh. <hi>Nol</hi> himſelf knew then how to lay aſide his ſtaff of ſtate. No Page nor Lacquey in the Lobby could play the Tom-boy more nimbly nor actively; for throwing of cuſhions, ruffling young wenches, ſnatching Allamodian favours, ſcrambling of jun<g ref="char:EOLhyphen"/>kets, bowzing of bride-poſſets: (one draught now of ſuch coo<g ref="char:EOLhyphen"/>ling liquor were worth an Empire:) all this I did to the honour of thoſe Nuptial Revels, &amp; to congratulate the aery happineſs of my relations. For matter of entertainment nothing could be too <hi>dear</hi> for my new initiated <hi>Son in Laws,</hi> nor indeed more <hi>cheap</hi> for <hi>my ſelf,</hi> for I payd them no Portions: my <hi>Exchequer</hi> was empty; ſo as they muſt reſt ſatisfied with the enjoy<g ref="char:EOLhyphen"/>ment of a naked fancy: with ſome fruitleſs hopes and golden promiſes, which proved as windy. No matter; to enter mar<g ref="char:EOLhyphen"/>riage with the <hi>Protectors</hi> Daughter; was a portion without Exception: and to preſs the contrary, might no doubt in time have inclined to a Branch of treaſon.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>O</hi> Nol, <hi>how unhappy it is to have beene once happy!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nol.</speaker>
+               <p>O how happy I, if I had never been happy! Since the ſtream of mine unhappineſs runs through ſo many Channels, as it terminates not with me; but derives it ſelfe in a line to my Poſterity.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>That's not poſſible; it was your wiſedome (as none could outſtrip you in the dangerous track of humane policy) to ordaine and nominate your ſonne</hi> Richard <hi>lineall Succeſſor, or Succeſſive uſurper.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>Never any ſuch matter; my <hi>Secretary</hi> highly traduced
+<pb n="9" facs="tcp:168652:5"/>me. I left the <hi>Succeſſion</hi> to <hi>Divine Providence:</hi> that as it had unexpectedly fallen, ſo it might deſcend to whom Fate had decreed it. And though many diſturbances in the State, had bred deſperate diſtempers and diſtractions in my brain; eſpe<g ref="char:EOLhyphen"/>cially thoſe ſad meanacings and impreſſive admonitions which my deareſt daughter <hi>BESS CLAIPOOL</hi> left with me, &amp; near the hour of her departure, recommended to me, which I muſt freely confeſs, did moſt ſtartle me. Notwithſtanding all theſe madding occurrences &amp; diſ-paſſionate incounters, I never wal<g ref="char:EOLhyphen"/>ked ſo irrationally as to make my croſs-graind Progeny Heires to your Family. Onely a very little time before my landing at this Port (a place not to be compared to my <hi>Back-ſtaires</hi> at <hi>Weſtminſter</hi>) ambition had rais'd ſuch a flame in my thoughts, as my only <hi>Note</hi> was a <hi>Crown,</hi> a <hi>Crown;</hi> neither did my ambition admit a period, till my breath expired. Such deſire I had to own, what my ſelf could not keep, nor my own attain. Neither indeed, did I hold any branch ſprung from my extraction, in relation to their abilities, fitting to execute the place of an <hi>inferiour officer,</hi> much leſs the office of a <hi>Protector:</hi> and rather born to be <hi>State-penſioners,</hi> then <hi>Commanders</hi> in a <hi>State.</hi> For I could never account of them, upon a due ſurvey of their actions, and diſcovery of their tempers, for <hi>Cocks of Game,</hi> nor native <hi>Oſiers</hi> of an <hi>Oliver.</hi> Thus juſtly might I play the part of an expert and bitterly-experienc'd Limner in portraying, and Herald in deblazon<g ref="char:EOLhyphen"/>ing my infelicity, not in my ſelf alone, but in my degenerous Poſterity. High Flyers, but their flight is for feathers in the ayr; the higheſt pitch of their ambition. So as (and for one of my Tortures I take it) my <hi>Divination</hi> touching them became true: for by <hi>Eridamus</hi> our Intelligencers tranſitive relation, they have already acquieſced to a weak mercenary ſubmiſſion. Whence I conclude, that as my blemiſh'd fame was formerly blaſted; ſo the memory of our Family on earth is quite razed, my poſterity ſhamefully debaſed; and all to their former obſcurity reduced.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>This was a juſt judgement,</hi> NOL, <hi>and you are to ac<g ref="char:EOLhyphen"/>knowledge it; It was your</hi> Deſign <hi>ſometimes, and you purſued it by your power and policie to an</hi> Act, <hi>that none of the</hi> STUARTS
+<pb n="10" facs="tcp:168652:6"/>
+                  <hi>Race or Line ſhould ever be in a capacitie of Election either of</hi> Protector, <hi>or any other office or place of Command in the Common-weal: and are you not now in your own diſcarded Name and Famiie juſtlie requited?</hi>
+                  <note place="margin">
+                     <hi>Sir</hi> T. W.</note> 
+                  <hi>The</hi> Speaker, <hi>you know, modeſtlie oppoſed it: but ſo ſtrong grew your Faction, and ſo de<g ref="char:EOLhyphen"/>ſpicable my condition, as poor CHARLES adn his were made</hi> Aliens <hi>to their own, and wholly excluded. And was not this hard meaſure?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>O me! this aggravates my torments above meaſure, eſpecially when I recollect my ſelf, and reflect upon you, ſeated in a ſphere of glory; to take a view of my miſery; where I am become a ſpectacle to Angels in my ſuffering, and a reproach to men in their cenſuring.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>Surely</hi> NOL, <hi>thy fury appear'd towards me implaca<g ref="char:EOLhyphen"/>ble, not only in my life, but after my death: where in humanity hatred ſhould ſleep,</hi>
+                  <note place="margin">Chriſtiani nunquam inventi ſum Caſſi<g ref="char:EOLhyphen"/>ani. <hi>Ter<g ref="char:EOLhyphen"/>tul.</hi>
+                  </note> 
+                  <hi>and Revenge, were it never ſo deeply rooted, ſhould reſolve into remorſe. For mine Head divided from its liveleſs Trunk could not ſatisfie thy groundleſs wrath:</hi> (<hi>for my</hi> innocence <hi>never wronged thee</hi>) <hi>but to inſert this amongſt ma<g ref="char:EOLhyphen"/>ny other of thy matchleſs cruelties, the relation whereof will re<g ref="char:EOLhyphen"/>quire large Annals to ſucceeding ages; re-call to mind, and it cannot chuſe but affright thee, how ingloriouſly thy domineering State inſulted over my diſlaughter'd Corps; uſing theſe words with a ſcornful contempt over it:</hi> Go to; thou wer't ſhaped better for an honeſt Subject, then a good King.</p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>It is true, I ſad ſo, and ever held ſo; for my opinion was from the firſt time I ſaw you, or took obſervation of you, that you would partake more of an honeſt then heroick temper.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>This</hi> NOL, <hi>I impute rather to an error of your diſ<g ref="char:EOLhyphen"/>affection towards me, then any grounded reaſon for your averſion from me: But it was that turbulent ſpirit within you, which</hi> brewed <hi>thoſe diſloyal whimſies in your brain. My actions were ſo clear and harmleſs, as they could not fomentate in you ſuch di<g ref="char:EOLhyphen"/>ſtempers. If Masks or Theatral preſentments could ſo ſtrangely operate, as by the free and frequent uſe of them, to depoſe Prin<g ref="char:EOLhyphen"/>ces, and aliene Subjects from their allegeance, it were an act that exceeded all Preſidents.</hi>
+               </p>
+            </sp>
+            <pb n="11" facs="tcp:168652:6"/>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>And this it was which the <hi>purity</hi> of our <hi>Zeal</hi> firſt wrought on: but your <hi>Corrupt Councel</hi> epecially; the eager purſuit whereof afforded ſwifter wings to our Deſigns.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>Unhappy wings that ſpread themſelves to the ruine of the Flier, by making the Purſuer a prey to his Follower! But af<g ref="char:EOLhyphen"/>ter thy pittiful Triumphal over my breathleſs Trunk, (the poor remainder of an unfortunate Prince) what might be the occaſion of thy delaying of my Burial?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>That neither tended to your diſadvantage nor diſho<g ref="char:EOLhyphen"/>nor, for your Tragical Scene was alreay acted; this was purpoſely done for the Souldiers benefit: where, as your ene<g ref="char:EOLhyphen"/>mies breathed nothing on your Corps but words of ignomi<g ref="char:EOLhyphen"/>ny; ſo your few Funeral Attendants made gain their aim, receiving money for ſight of your Body. <hi>An uſeful</hi> Specta<g ref="char:EOLhyphen"/>cle of Mortality.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>How pittiful my uſage! expos'd to ſale both living and dying!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>Yet never any leſs pittied: for the <hi>Scots,</hi> who were your firſt <hi>Chap-men,</hi> could not: and we who were the ſe<g ref="char:EOLhyphen"/>cond, would not: ſo marble-temper'd were we both, as our neglect to your Obſequies, expreſt the coolneſs of our affecti<g ref="char:EOLhyphen"/>on to your ſelf. Tears, unleſs they ſteam'd in he eyes of your own Relations, were held too precious Victims for ſuch Funerals. For mine own part, though I could feign a tear as well as any <hi>Crocodile,</hi> I was ſo infinitely pleaſed with your paſſage out of the world, as I could not change my countenance for a world. I was ſteel'd all over: and as diffe<g ref="char:EOLhyphen"/>rent to <hi>a Niobe,</hi> as compaſſion could be to the heart of an Enemy. Your death ſecur'd my <hi>Title:</hi> wherein, though many <hi>might</hi> by way of <hi>proprietie</hi> challenge as much right, and ſhew as fair Cards as my ſelf, being equal ſharers in the Conqueſt: yet it was ever my happy fate (O how unhappy now may I call it?) to be eſteemed the prime Agent in that ſucceſeful ſervice.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>It is true; yet I found others more deſtructive to my proceedings: for it is well known how in the very firſt beginning or infancie of thoſe Civil Warres, your accompt was but in the rank of inferiour and inconſiderable Officers, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y, of ſo low and
+<pb n="12" facs="tcp:168652:7"/>deſpicable a qualitie, as your place ſcarcelie merited the Title of a Commander; being as then, not admitted to the</hi> truſt <hi>of a Colours.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>That redounded more to mine honour. For it could not be aſcribed to any thing leſs then my indefatigable induſtry or incomparable policie, or what elſe you pleaſe to term it, that rais'd me from that low quality, to ſuch a pitch of hu<g ref="char:EOLhyphen"/>mane felicity.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>Miſerable felicitie, that for a bloſſom of humane glorie, no ſooner appearing then vaniſhing, forfeits his intereſt in that ſtate of Eternitie. For who is he, if ſenſible of a future condition, that for a moment of delight, would willingly ſuffer a perpetuitie of torments: or loſe his Claim in the fruition of Happineſs, for the fading pleaſure of one Nights dalliance?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>Why, Sir, you need not ſeek far for this till you find it; I my ſelf have done it: and my honeſt Colleague too TOM PRIDE, (for I dare not call him <hi>Lord,</hi> for fear of the <hi>Prohibition</hi>) who now ſnorts in <hi>Lucifers</hi> boſome,<note place="margin">
+                     <hi>Tom. Pride</hi> did wiſely in pre<g ref="char:EOLhyphen"/>venting Cenſure, and dying in his Honour.</note> and la<g ref="char:EOLhyphen"/>ments nothing more then his Butchery of the <hi>Bears:</hi> curſing his raſh valour in committing ſo hidelous a ſlaughter: wiſh<g ref="char:EOLhyphen"/>ing with all his ſcalded heart, that he had <hi>repriev'd</hi> one <hi>Bear</hi> at leaſt, if it had been but to ſtop the foul mouth of that bauling Curre <hi>cerberus,</hi> who keeps ſuch a racket, as he will not ſuffer his Hon. <hi>Taplaſh,</hi> having diſcharg'd his ſhoulders of his barmy <hi>Dray,</hi> to take any reſt: nor his ears nor eyes, hour<g ref="char:EOLhyphen"/>lie affrighted with Lightning and <hi>Lapland</hi> Thunder, to allay the horror of thoſe affrights with one minutes ſlumber.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>Alas, poor</hi> Tom.</p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>Not ſo poor neither. His <hi>Name</hi> is ſo anciently preci<g ref="char:EOLhyphen"/>ous, and of ſuch general alliance to our principal <hi>Grandees</hi> here in <hi>Tartarie,</hi> as he is lately made <hi>Prime Tapſter</hi> for the <hi>Regiment</hi> of the <hi>Scullerie;</hi> an office of credit and profit: for nothing here ſo dear as liquor: nor can any courteſie be more thankfully tendred to a thirſtly Sojourner, then a bottle of clear Stygian-water, lightly ſpiced or ſprinkled with Sul<g ref="char:EOLhyphen"/>phur. O had we ſuch Waſſel-cups, we ſhould hold them more precious then Rivolets of delicious Nectar! Mean while, I cannot chuſe, amongſt many other melacholly
+<pb n="13" facs="tcp:168652:7"/>dumps which inceſſantly ſeize on me, but remember how pit<g ref="char:EOLhyphen"/>tifully (though deſtitute of pitty) my ſervant PRIDE howled out laſt night: (as what is all our Plantation but a Region of Night? or the ſurface of our Soveraignty but a Tragick Stage hung round with Sable Enſigns of baleful me<g ref="char:EOLhyphen"/>lancholly?) Would you hear, I ſay, how that Infernal Lord bellowed, being ſeated, on a Kilderkin of <hi>Lethaean</hi> liquor? I ſhall not detract one tittle, nor vary in one ſyllable from that doleful complaint of his Honour. <q rend="inline">Oh that I were now (ſaid he) haling thoſe refractory <hi>Members,</hi> which ſome<g ref="char:EOLhyphen"/>times diſpleaſed brave OLIVER, into <hi>Hell</hi> at VVEST<g ref="char:EOLhyphen"/>MINSTER! how cheerfully might I quench that thirſt which now torments me! O then, ſo far had a blaſt of Honour tranſported me, or ſecurity belulled me, as I vain<g ref="char:EOLhyphen"/>ly thought there was none but that: but I feel One now of another nature: and which I never dream'd on, till I came thither? O that thoſe Pariſhioners, who firſt found me, and charitably made me a Child of the Pariſh, had left me ſwathled as they found me: ſo had their care been leſs, and I leſs ſenſible of my miſery!</q>
+               </p>
+               <p>The ſhrieks of one to my ſelf ſo well known, and who from his <hi>Maſh-fat</hi> had ſerv'd me ſo long, inforc'd me to look back upon my ſelf; and recall to mind that momentany ſha<g ref="char:EOLhyphen"/>back upon my ſelf; and recall to mind that momentany ſha<g ref="char:EOLhyphen"/>dow of earthly felicity which I here partak't: my frequent viſits and progreſſes to HAMTON-Court and VVIND<g ref="char:EOLhyphen"/>SOR, where your incenſed and unrevenged <hi>Ghoſt</hi> oft-times affrighted me: which caus'd me to diſcontinue my viſit of that place; ſo ſtrongly did your Apparition work upon me? and ſo terribly did my guilty conſcience check me, and com<g ref="char:EOLhyphen"/>bat within me, as that Progreſs which I took for pleaſure, diſcompoſed my ſoul, and made me in my return diſconſo<g ref="char:EOLhyphen"/>lately heavy. Buy Muſick and frolick ſociety, quickly cur'd the <hi>bite</hi> of this <hi>Tarantula.</hi>— Oh me! How now it gripes me to remember thoſe Court-ayrs, Pavans, Almans, Coran<g ref="char:EOLhyphen"/>to's, Sarabands, all my Court-frolicks, with that merry Mu<g ref="char:EOLhyphen"/>ſical ayr of my never to be forgotten <hi>Oliver;</hi> which though it ſpitefully plaid on me, it acted infinitely upon my fancy: being heated, and heightned with exquiſite wines and ſocia<g ref="char:EOLhyphen"/>ble
+<pb n="14" facs="tcp:168652:8"/>humoriſts, who held it their higheſt honour, to fit the humour of their OLIVER. But all that jollity is now paſt, and I alone left to my ſelf (and well were it for me, were I ſo left:) the Court-gate ſhut, <hi>White-Hall</hi> made <hi>black</hi> with ſuffering, ſet at ſale; Saint <hi>Imaes</hi> waits for a Purchaſer; <hi>Greenwich</hi> to her ver <hi>Materials</hi> become a ſufferer: No ac<g ref="char:EOLhyphen"/>ceſs to <hi>Hyde-Park,</hi> nor <hi>Spring-garden,</hi> nor <hi>Oxford Kate</hi> may be admitted to friendleſs <hi>Oliver.</hi> — My <hi>Studds</hi> and <hi>Stallions</hi> diſpatcht by a Contagion: and their <hi>Maſter</hi> by a phrenſie, to quicken his diſſolution. My deſerted Paraſites, like Beetles or Dung-worms return'd to their Ordure: My Family with infamy branded; my Race rooted; my Line razed; my Allyes by marriage diſgraced; my titular Lords degraded; my old <hi>Mab</hi> fool'd into a Quaker. Houſe &amp; Houſhold all indiſorder.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>Why, NOL, all this is nothing to what thine actions have deſerved, if duly weighed, and anſwerable to their qua<g ref="char:EOLhyphen"/>lity, judicially meaſured. Superiour Powers, though they have</hi> leaden feet, <hi>they have</hi> iron hands. <hi>Their judgements may ſleep, but they never ſlip. Thou exclaimeſt amongſt other of thy aggrievances, how ſome Princely houſes were ſet at ſale; whereto thou couldſt pretend no Title. While I reigned and on earth ſojourned, the impudence of malapert Subjects was ſuch, not long before theſe <hi>Civil VVarrs</hi> broke forth, as they ſtickt not to paſte on my Gate at</hi> VVhite-Hall, This Houſe is to be Let. <hi>Neither was it ſufficient for them to derogate from my perſonal honour, but to throw aſperſions on the purity of</hi> her <hi>fame, whoſe blameleſs demeaner had rais'd its ſplendor above the reach of cenſure. And for my ſelf, to ſuch an indigent condition hand my misfortunes brought me, as there was no Houſe left me, which I might properlie call mine own, to lodge in nor Bed to lie in; no, nor after my death, any other Burial Place for my di<g ref="char:EOLhyphen"/>ſlaughter'd Corps to reſt in, but an obſcure and unprincely inter<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>There was good reaſon for that. I had read ſo much in <hi>Plutarch,</hi> 
+                  <q rend="inline">How there was nothing that inraged the people more againſt the Actors of <hi>Caeſars</hi> murder, then the ſhewing of <hi>Caeſars</hi> gaſtly wounds by <hi>Mark Antony:</hi> that was the ſight which begot in the people compaiſion generally.</q>
+                  <pb n="15" facs="tcp:168652:8"/>This it was that ſprung a tear in every eye, and a now of re<g ref="char:EOLhyphen"/>venge from every hand. The only was to bring diſcontents aſleep, was to bring you to your reſt in quiet. And for your bed of earth, ſure I am your private unpoliſh'd vault accrued more to your honour,<note place="margin">With this Inſcripti<g ref="char:EOLhyphen"/>on on the Wall: <hi>Great in Policy, but matchleſs in Tyranny.</hi>
+                  </note> then all my coſtly forty thouſand Fu<g ref="char:EOLhyphen"/>neral Structure. Mine was more magnificent; but yours more permanent. For our ſprightly intelligencer <hi>Eridamus,</hi> informs me upon his return from that Coaſt, how my <hi>Shrine</hi> was no ſooner raiſed, then it was razed; no ſooner erected, then defaced: and upon the ſplinters of it, theſe wormwood lines endorſed:
+<floatingText xml:lang="eng" type="poem">
+                     <body>
+                        <head>Upon his Shrine.</head>
+                        <l>
+                           <hi>NOLS</hi> Statue broke in pieces! what hand could,</l>
+                        <l>Had it <hi>Briareus</hi> ſinews, be ſo bold?</l>
+                        <l>Why not? It by thoſe <hi>ſractures</hi> nothing loſt,</l>
+                        <l>
+                           <hi>Pieces</hi> were <hi>Emblems</hi> of the coyn they coſt.</l>
+                        <l>NOLS Funerals are paſt, his <hi>ſhrine</hi> ſet up;</l>
+                        <l>Hey <hi>Boyes</hi> let's Cant it o're our Waſſal-Cup;</l>
+                        <l>Had NOL ſuch liquor as we birle here,</l>
+                        <l>Hee'd think he were in <hi>Hell</hi> at <hi>VVeſtminſter:</hi>
+                        </l>
+                        <l>But ſuch a <hi>cenſure</hi> has befaln this <hi>Hector,</hi>
+                        </l>
+                        <l>As he muſt <hi>Sulphur</hi> bouze inſtead of <hi>Nectar.</hi>
+                        </l>
+                        <l>—<hi>O</hi> Huntington, Huntington, <hi>little didſt thou dream</hi>
+                        </l>
+                        <l>That NOL ſhould by <hi>Charon</hi> lancho're the <hi>Stygian</hi> ſtream:</l>
+                        <l>Or become ſuch a <hi>Brewer</hi> where now he remains,</l>
+                        <l>As to furniſh all <hi>Tartary</hi> with Ala and Grains!</l>
+                        <l>O ye <hi>Ptotectors</hi> Brood, obſerve <hi>his</hi> Fate,</l>
+                        <l>And ceaſe from ſeizing an <hi>uſurped</hi> State!</l>
+                        <l>For though the <hi>Bait</hi> ſeem pleaſing to Ambition,</l>
+                        <l>The <hi>wound</hi> is mortal, and diſclaims Phyſitian.</l>
+                     </body>
+                  </floatingText>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>It ſeems NOL, thy crueltie had ſo far abroad ſpread thine infamie, as it whetted pens in all places to inveigh againſt thee. Neither was it wiſdome in thine to beſtow on thy
+<pb n="16" facs="tcp:168652:9"/>Monument ſuch coſt; when the ſight of it could preſent nothing leſs then an Object of ſcorn, or a Spectacle of ſhame, ſhoſe might be the charge?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>Only <hi>His,</hi> whoſe command might not unfitly be com<g ref="char:EOLhyphen"/>pared to thoſe ſhort-liv'd Flies that breed neer the banks of <hi>Hymetus,</hi> who no ſooner begin to quicken then they <hi>expire:</hi> for ſo it fared with the <hi>ſhort life</hi> of his <hi>Protection.</hi> VVhence I obſerve the levity of popular favour: and how inconſiſtent it is to the foundation of honour. O with what <hi>humble Ad<g ref="char:EOLhyphen"/>dreſſes</hi> have I and mine been courted! what vows of Allea<g ref="char:EOLhyphen"/>geance and Fidelity tendred! what left unpreſented, that might either oblige them, or aſſure us of their zeal and de<g ref="char:EOLhyphen"/>votion towards us? And theſe Congratulations came from all places and perſons of all qualities. But ſure, thoſe Coaſts are either ſunk, or thoſe good-pretending people dead; for thoſe <hi>Addreſſes</hi> in very ſhort time run themſelves quite out of breath. Neither was this all; for ſome I had near me, and whom I had made mine by my <hi>bounty,</hi> (an <hi>act</hi> which I was never much addicted to) who knew how to proteſt, and ſeemingly to ingage their perſons in any action for my ſake, while I was living; who could ſport and skip like <hi>Satyrs</hi> at my dying: Yea, even in that laſt and longeſt conflict which I had with <hi>Nature,</hi> and wherein I expoſtulated with my <hi>Ma<g ref="char:EOLhyphen"/>ker,</hi> ſaying, <hi>How doeſt thou now mean to deal with me!</hi> I might hear a ſoft whiſpering voice uttering theſe words near the Curtain, <hi>Roughly enough, if he mean to deal juſtly with you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>This was cold comfort from your own Family: but the</hi> Hare <hi>may inſult ſafely over a dead Lion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>VVhich a Critick of my Court, and to whom I had ſhown ſome civil favours, made uſe on: who, to ingratiate himſelfe with one who never wiſh'd me well, beſtow'd his pen upon a Poem, enttling it my <hi>VISION;</hi> which he bit<g ref="char:EOLhyphen"/>terly purſu'd in this manner.
+<pb n="17" facs="tcp:168652:9"/>
+                  <floatingText xml:lang="eng" type="poem">
+                     <body>
+                        <head>His Viſion.</head>
+                        <l>Who are you that diſtract my Soul with fear?</l>
+                        <l>— Torture and horror! — What art thou ſtalks't there?</l>
+                        <l>Ay me! my Soveraign Liedge reft of his head</l>
+                        <l>By thy perfidious hand.—Whence ſtreams that blood,</l>
+                        <l>That <hi>Purple Ocean</hi> which invirons me?</l>
+                        <l>From thoſe <hi>pure hearts</hi> that di'd for Loyaltie.</l>
+                        <l>What mean thoſe <hi>Scarlet veils</hi> hung in that ſort?</l>
+                        <l>The <hi>Sanguine Hangings</hi> of thy Iuſtice Court.</l>
+                        <l>Who's he finds fuel to my <hi>boundleſs fury?</hi>
+                        </l>
+                        <l>THURLOE.—who doomes me? <hi>A ſupernal jury.</hi>
+                        </l>
+                        <l>— What hoſtile noiſe is this! whence may it come?</l>
+                        <l>It ſeems thy <hi>Guard's</hi> approching by the Drum.</l>
+                        <l>'Tis all in vain; what guards can ſhelter him</l>
+                        <l>Who has ſo many enemies within?</l>
+                        <l>—O how this <hi>Warr-charge</hi> doth my <hi>ſpleen provoke!</hi>
+                           <note place="margin">Here he diſplayes his vari<g ref="char:EOLhyphen"/>ous di<g ref="char:EOLhyphen"/>ſtemper'd paſſages during the time of his ſickneſſe.</note>
+                        </l>
+                        <l>Send forth commands they do not ſtrike a ſtroke.</l>
+                        <l>This ſound of Drums and Trumpets which I hear</l>
+                        <l>Preſents a frightful language to mine eare.</l>
+                        <l>Leave me; oh leave me; i'm for ever loſt;</l>
+                        <l>And for a <hi>Crown</hi> in <hi>Baths</hi> of torments toſt.</l>
+                        <l>Farewel to earth; my <hi>Burden</hi> is ſo <hi>great,</hi>
+                        </l>
+                        <l>I find no <hi>Mercy,</hi> though I ſee the <hi>Seat.</hi>
+                        </l>
+                        <l>PETERS be gone; I'm run upon that ſhelf,</l>
+                        <l>Thou canſt not <hi>ſave</hi> me, nor I fear thy ſelf.</l>
+                        <l>So <hi>raw's</hi> thy <hi>Doctrine,</hi> and ſo <hi>ripe</hi> my <hi>ſin,</hi>
+                        </l>
+                        <l>
+                           <hi>PETER</hi> will find no keys to let us in.</l>
+                        <l>— Avant deſpair! my <hi>Convoy</hi> mounts to bliſs,<note place="margin">Quic<g ref="char:EOLhyphen"/>quid ex me mihi deeſt, <hi>uſurpo</hi> mihi ex viſceribus domini mei. <hi>Aug. Manual. c.</hi> 21.</note>
+                        </l>
+                        <l>Though <hi>Sin</hi> abound, <hi>Grace</hi> more abundant is.</l>
+                        <l>A brave exchange beyond compariſon,</l>
+                        <l>For three rent Kingdomes, to inherit one.</l>
+                        <l>One, and a rich one too; a glorious <hi>Nation;</hi>
+                        </l>
+                        <l>Where th'<hi>Stat's ſecure,</hi> though got by <hi>Vſurpation.</hi>
+                        </l>
+                     </body>
+                  </floatingText>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>It ſeems,</hi> Nol, <hi>though he begun with you roughly, he ended ſmoothly. It had been happy for thee</hi> Nol, <hi>if this Poet might
+<pb n="18" facs="tcp:168652:10"/>have had ſuch influence over</hi> Pluto's <hi>Court, as to procure thy re<g ref="char:EOLhyphen"/>move, or ſo much favour as to change thy lodging: or a fair pro<g ref="char:EOLhyphen"/>greſs after thy late exile from</hi> Hampton <hi>to the</hi> Elyſian fields: <hi>but there is ſuch a report of thy</hi> field-ſervice, <hi>as it is much to be feared: that the keepers of thoſe peaceful fields would appear ſhy in admitting ſo fiery and furious a blade into their ſociety. Truth is, thou hadſt no more right to</hi> England, <hi>then thou hadſt to</hi> Elyſium; <hi>who then could blame thee in doubling thy files, or aſpiring to ſome new-created</hi> Protection <hi>in another</hi> region.</p>
+            </sp>
+            <sp>
+               <speaker>Oli.</speaker>
+               <p>O Sir, could I diſpence with my <hi>ſuffering</hi> as I can now with <hi>Ambition,</hi> I ſhould account my ſelf happy, in the low<g ref="char:EOLhyphen"/>eſt and obſcureſt condition that could befall me. I ſhould neither repine at others greatneſs, nor bemoan my own low<g ref="char:EOLhyphen"/>neſs. I ſhould never ſpend time in remembring what I was, or how great I was, but in labouring to appear what I was not. But my heavy fate haſting my fall through the Career of my unexemplary actions, has thrown me upon that Prcei<g ref="char:EOLhyphen"/>pice; as my complaints would in all ages return me pitti<g ref="char:EOLhyphen"/>leſs; and my forlorn condition remedleſs.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>It is reported</hi> Nol, <hi>that thou hadſt a</hi> Dream <hi>which di<g ref="char:EOLhyphen"/>vin'd no leſs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Oli.</speaker>
+               <p>I had, indeed; then which none ever wrought more ſtrongly nor ſtrangely on the ſences of a ſleeping man: but imputing it to ſome melancholy fancy, whereto, by giving way to choller and other incident diſtempers, I was much inclined; I made ſo ſmall account of it, as I would not ſuffer it to act, as it had done formerly upon my thoughts. Till one day,<note place="margin">Ad Scep<g ref="char:EOLhyphen"/>trum ma<g ref="char:EOLhyphen"/>num, pro<g ref="char:EOLhyphen"/>cax am<g ref="char:EOLhyphen"/>bitio ver<g ref="char:EOLhyphen"/>tit; in Centrum fallax mentis conditio vergit. Emblem.</note> being in a merry humour, I chanc'd to repeat it; wiſhing a quick wit then in preſence, to render it in verſe; which he did in this ſort:
+<floatingText xml:lang="eng" type="poem">
+                     <body>
+                        <head>NOLS Dream.</head>
+                        <l>I rode me thought, ith' <hi>Chariot</hi> of the <hi>Sun,</hi>
+                        </l>
+                        <l>With <hi>ſix black Barbs,</hi> by journying grown <hi>Dun.</hi>
+                        </l>
+                        <l>Impal'd with <hi>Sun-beams</hi> was my <hi>Head</hi> to th' <hi>Navel;</hi>
+                        </l>
+                        <l>But waking, found thoſe Beams reſolved' to <hi>Gravel.</hi>
+                        </l>
+                        <l>A <hi>Triple-Crown,</hi> me thought, was my adventure,</l>
+                        <l>But reaching fail'd, and made the Earth my Centre.</l>
+                     </body>
+                  </floatingText>
+               </p>
+            </sp>
+            <pb n="19" facs="tcp:168652:10"/>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>This was a good divination, and well rendred, if thou hadſt ſeaſonably made uſe of it; but the confluence of thy victo<g ref="char:EOLhyphen"/>ries; the applauſe of thy flatterers: and the forreign fame of thine actions; begot in thee an oblivion of the injuries thou hadſt done; with a ſecure confidence againſt all oppoſitions whenſoever or whereſoever they came. Small doubt may be made, but that thou couldſt wipe off all thoſe matchleſs indignities done to me and my Diſtreſſed family with a light ſpunge. Thy continued ſucceſs in affairs had not onely eſtranged thy thoughts from a con<g ref="char:EOLhyphen"/>eit of loyalty, but from a ſenſe of thy Sovereigns in<g ref="char:EOLhyphen"/>jury.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Oli.</speaker>
+               <p>Nothing more true; long time were your wrongs ſteeped in <hi>Lethe,</hi> but now they return freſh to my memory. Neither ſhall I ſtick now to diſcover freely to you, what I ſhould never have done, if I had lived <hi>Neſtors</hi> years, in the world. But my commands being now ſhut out oth' Houſe, and no hope of ſucceſſion to my kace, I ſhall not be nice in diſcovering what did ſometimes highly concern me, and which now conceal'd, would little avail me.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>Thy</hi> Genius <hi>argues thee more ingenuous dead then li<g ref="char:EOLhyphen"/>ving. hold on and be mindful of thy Catalogue.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Oli.</speaker>
+               <p>I ſhall go on in order, though I remain confin'd here, where there is no order but horror:</p>
+               <p>You cannot, Sir, but remember the neceſſitated remove, which your misfortunes had forc'd you to, and with what mean equipage accommodated in your adventure from your dear Foſter-mother the City of <hi>Oxford</hi> to <hi>Newark:</hi> and with what beamelings of hope you were enlivened (but thoſe weak beams ſtruck out from a <hi>Scottiſh</hi> Horizon) in that ſo te<g ref="char:EOLhyphen"/>dious and incommodious a journey. There by means of mine uſeful agents did I ſet mine <hi>Engine</hi> on work. The hopes which you repoſed in old <hi>LASHLEY</hi> and his adherents, were ſoon <hi>blown</hi> up by mine <hi>Ordinance,</hi> being loaden with no other <hi>ſhot,</hi> then <hi>fear</hi> of our <hi>power,</hi> and <hi>promiſe</hi> of <hi>reward;</hi> which being at <hi>Newcaſtle</hi> accordingly effected; your ground<g ref="char:EOLhyphen"/>leſs hopes became fruſtrated, your truſt betrayed; and your perſon to my commands delivered. Afterwards, having you
+<pb n="20" facs="tcp:168652:11"/>then in my hands, and reſolving to delude the world with a pretended clemency, or ſhroud of honeſty; you were orde<g ref="char:EOLhyphen"/>red, or rather cunningly trapan'd, for the Iſle of <hi>WIGHT;</hi> where out of our tender zeal to your ſafety, you were to have your cauſe judiciouſly debated, and by convenient addreſſes to our Parliament, ſeaſonably compoſed: But then and there, Sir, and never till then did I play my <hi>Maſter-prize.</hi> My Sceane was acting along in that grand treaty. No action undertaken, no article of agreement propos'd, whereon my negative voice, though not publikely, yet with a peaceful in<g ref="char:EOLhyphen"/>nocence and ſmooth privacy, (as a cloſe conſervator of the rules of policy, the main principles of my religion) ever had a ſpeciall influence. The purchaſe of your peace was the on<g ref="char:EOLhyphen"/>ly Rock to my aims. It behov'd me then to obſtruct all waies of condeſcention. Which I found to be an eaſy work by plow<g ref="char:EOLhyphen"/>ing with your own Heifers: and making the neraeſt to your Perſon, the onely inſtruments for mine advantage: and who were theſe, but thoſe <hi>Divine Organs</hi> that ſounded ſo ſweetly in your ears? and was not this a gallant <hi>Prelacy,</hi> that could for <hi>ſelf-intereſts,</hi> diſpence with Loyalty! But truth is, Sir, pro<g ref="char:EOLhyphen"/>motion was their idol. This made them feed upon the better ſide oth' hedge. They <hi>wiſely</hi> conſidered, how by my thriving diſcipline and weakneſs of your forces, you were going down the weather: The onely way then, as they conceiv'd, both to ſecure their perſons, and to feather their neſts (a principal which they found not in all <hi>Hookers</hi> Eccleſiaſtical policy) was to imitate thoſe <hi>Perſian Prieſts,</hi> whoſe ſuperſtitious adorati<g ref="char:EOLhyphen"/>on became reſerv'd onely for the <hi>Suns riſing,</hi> but none for his <hi>ſetting.</hi> Thus went the game on, but ſhuffled ever to your diſadvantage.<note place="margin">Solinus.</note> In a word, I neither ſlept nor ſlipt any oppor<g ref="char:EOLhyphen"/>tunity that might decline your peace, or advance mine aime. Your propoſals, by my party were wholly ſlighted, your let<g ref="char:EOLhyphen"/>ters miſconſtrued; all future addreſſes barred; and this <hi>Trea<g ref="char:EOLhyphen"/>ty,</hi> contrary to all hope and loyal wiſhes, no leſs ſuddenly then unexpectedly diſſolved. Which done; holding <hi>ſecrecy</hi> and <hi>celerity</hi> to be the main moving <hi>wheels</hi> of every weighty action: and that more advantage did ariſe by diſpatch then delay; preſent courſe was taken for hurrying your from that
+<pb n="21" facs="tcp:168652:11"/>
+                  <hi>Iſle</hi> to <hi>Windſor;</hi> ther to meaſure out your Grave; for ſo it was irrevocably intended.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>I expected no leſs upon my firſt approch at that place. Nothing was preſented to my ſight; nothing ſounded in mine ears, which rendred me not formidable Accents and Omens of my enſuing ruine. So ſad was every object to my apprehenſion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Oli.</speaker>
+               <p>You could look for nothing elſe. For it had been my care to fit to you with ſuch Attendants, as preſented nothing leſs then death, and horror in their countenance. And by theſe were you accompanied, as became a remorſeleſs guard, to your <hi>judicial Doom,</hi> long reſolv'd on, before you were ſenten<g ref="char:EOLhyphen"/>ced.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>I might eaſily underſtand that by the</hi> Charge <hi>drawn up againſt me; and the face of the Iury impanneld to try me. Wherein none ever partak't of more juſtice with leſs equity or mercy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Oli.</speaker>
+               <p>O Sir, you were no ordinary offender, and therefore not to be proceeded withall in ordinary manner. And in all theſe, it rejoiced me not a little, to be the principal Agent, and yet undiſcovered or ſuſpected. Wherein, me thought, (and this imagination pleaſed me) I might be compared, for my winding and ſubtile conveiances to the River <hi>Alpheus,</hi> that by ſubterranean paſſages runs a while unſeen through the Countrey of <hi>Elis,</hi> but afterwards breaking out, repairs to the Sea, though with no great Stream. Such was my courſe: and as I then held it, no leſs proſperons my chance. For you found that our juſtice, were it right or wrong, and wings to quicken your diſpatch for the Block. Where you had many <hi>ſpectators</hi> but few <hi>open mourners:</hi> for the Souldiers threats and fury attach't them with that fear, as they ſtopt the Current of their tears: and ſtill'd the noiſe of their groanes.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>I had once a purpoſe to reſiſt your</hi> Executioner; <hi>till I was by my pious and Reverend</hi> Chaplain <hi>ſeaſonably-diſſwaded from it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>That would have avail'd you nothing: By my com<g ref="char:EOLhyphen"/>mands (being jealous of ſuch reſiſtance) ſecret Engines, Hooks and Pulleys were contrived, forcibly to hale you to the Block; if you had not ſubmitted to it. You might rather
+<pb n="22" facs="tcp:168652:12"/>wonder, how it could poſſibly come to paſs, that you at your Court gate, and in the eye of your eminent'ſt City, where ſome could not chuſe but love you, ſhould act ſuch an unex<g ref="char:EOLhyphen"/>emplary Tragedy, and have not one revenging hand held up to defend you: nor tender the zeal they ought you.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>O bluſh at thy ſelf,</hi> Nol, <hi>in this Relation. who more obliged to thy Soveraign then thy ſelf, yet who more treache<g ref="char:EOLhyphen"/>rouſlie tyrannous to thy Soveraign?</hi> Finchinbrook <hi>abhorr'd thee. None had relation to thy loyal Uncle</hi> OLIVER, <hi>but ab<g ref="char:EOLhyphen"/>jur'd thee.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>Yet all this wrought nothing in me. I gloried much in your Death, but more at the Place of your Death. For my imboſom'd Soveraignty told me, it inlarg'd my Power, and abridged my fear: For what could he fear, who had the power to ſacrifice without reſiſtance his Princes life at his own door? In which action, (the wonder of all ages) though Some might have oppos'd me, they could not have o're<g ref="char:EOLhyphen"/>powr'd me. So ſtrongly had I won in upon the affections of the Souldiery; as my Commands gave them Laws: my Pro<g ref="char:EOLhyphen"/>poſals were their Intereſts.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>This was ſuch an</hi> Intereſt <hi>as my</hi> Lenity <hi>culd ne're attain to.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>O <hi>CHARLES,</hi> you had never the knack on't: your <hi>Grandfather</hi> could have told you that <hi>Kingſhip</hi> was a quaint kind of <hi>Craft,</hi> and that there were many wayes to the wood, which ſtood with the expedience of a Prince to diſ<g ref="char:EOLhyphen"/>cover, before he came to be a prudent Governour. It was one of my Arts (neither did I loſe my ſelf in it) to mint <hi>Treaſon,</hi> purpoſely to make the ignorant admire my <hi>Clemen<g ref="char:EOLhyphen"/>cie:</hi> wherein it was my glorious gloſs to pretend Mercy in pardoning thoſe whom I knew to be innocent. But in this <hi>Iuncto,</hi> wherein I ſeemed to ſail as on a calm Sea; I could not walk ſo cloſely in the Clouds, but I might ſhew the fierceneſs of my fury, and eagerneſs of my talons. A large Rubrick Calender of the Innocent Blood I have ſhed, is hourly here preſented to me. <hi>LOVE, GERRARD, VOW<g ref="char:EOLhyphen"/>EL, &amp;c.</hi> infinitely torment me; and of thoſe, my ingra<g ref="char:EOLhyphen"/>titude to <hi>Love</hi> for his friendly office and faithful ſervice done
+<pb n="23" facs="tcp:168652:12"/>to our Cauſe at <hi>VXBRIDGE.</hi> But there is no torture af<g ref="char:EOLhyphen"/>flicts me more, then when I call to my unhappy memory, (for many things am I forc'd to remember, which I would gladly forget) that HIGH COURT OF JUSTICE, and thoſe <hi>unpreſidental</hi> proceedings of my Obſequious <hi>Preſident</hi> LISLE: whoſe <hi>Labell</hi> (for <hi>Libell</hi> I cannot call it, being ſo near truth) I ſhall mention, as it was brought me by <hi>Erida<g ref="char:EOLhyphen"/>mus</hi> from the middle Region.
+<floatingText xml:lang="eng" type="poem">
+                     <body>
+                        <head>A Preſident for Preſidents.</head>
+                        <lg>
+                           <l>LISLE, let theſe <hi>Preſidents</hi> of <hi>Judgement</hi> win thee,</l>
+                           <l>Leſt <hi>vengeance</hi> raiſe ſuch <hi>fatal Furies</hi> in thee,</l>
+                           <l>As that <hi>High-Court of Juſtice</hi> where thou ſate</l>
+                           <l>Hung round with <hi>Scarlet,</hi> manifeſt thy <hi>State</hi>
+                           </l>
+                           <l>Of all moſt <hi>curſed,</hi> ſince thou hadſt th' ſenſe</l>
+                           <l>To act ſuch Sins againſt thy Conſcience.</l>
+                        </lg>
+                        <lg>
+                           <l>So ſtrangely <hi>Names,</hi> from <hi>Natures</hi> diſagree,</l>
+                           <l>As may appear by Sir <hi>GEORGE LISLE</hi> and thee.</l>
+                           <l>He ſhed his blood in zeal unto his King,</l>
+                           <l>Thou ſhedſt their guiltleſs blood who honour'd Him.</l>
+                           <l>He loſt his <hi>Being</hi> to ſupport a Crown,</l>
+                           <l>Thoſe who ſupport it, thou haſt thrown them down.</l>
+                        </lg>
+                        <lg>
+                           <l>Never ſit more in a <hi>Judicial</hi> Court,</l>
+                           <l>Leſt th' <hi>Court</hi> of <hi>Conſcience</hi> impeach thee for't:</l>
+                           <l>And cry <hi>O'sace</hi> through all this <hi>Purple Iſle,</hi>
+                           </l>
+                           <l>"No <hi>Crimſon-Dyer</hi> may compare with <hi>Liſle.</hi>
+                           </l>
+                           <l>
+                              <hi>HEWYT'S</hi> affrighted Ghoſt ſhall ſtartle thee,</l>
+                           <l>And ach thy guilt to all Poſteritie;</l>
+                           <l>And tell this <hi>Grand Conveene,</hi> whereon relies</l>
+                           <l>Th' redreſs of thoſe who ſuffer injuries,</l>
+                           <l>That if this <hi>Murder</hi> which for <hi>vengeance</hi> calls,</l>
+                           <l>Sleep ſtill ſecure, the <hi>Sentence</hi> heavy falls</l>
+                           <l>O <hi>Thoſe</hi> who by <hi>Diſcuſſion</hi> fully know it,</l>
+                           <l>And may revenge his Blood, yet will not do it.</l>
+                           <l>
+                              <hi>NOW,</hi> do not think, thou horrid man of ſin,</l>
+                           <l>That Price, Pray'r, Power ſhall a <hi>Connivence</hi> win;</l>
+                           <l>It were a laſting ſtain to Womanhood</l>
+                           <l>Who <hi>Wedlock</hi> love, to ſell their husbands blood.</l>
+                           <l>Such ſatisfaction muſt not ſtand for pay</l>
+                           <l>Leſt th' purchaſe ſtyle the field <hi>Akeldama.</hi>
+                           </l>
+                        </lg>
+                        <pb n="24" facs="tcp:168652:13"/>
+                        <lg>
+                           <l>
+                              <hi>Eye</hi> for an <hi>Eye</hi> the ancient law decreed,</l>
+                           <l>Then for an <hi>Head</hi> what ranſom but an <hi>Head?</hi>
+                           </l>
+                           <l>Yea, more then that ſhould b requir'd in reaſon,</l>
+                           <l>For his was loyal, thine a mint of treaſon.</l>
+                           <l>"Though <hi>Titus</hi> head were like another mans,</l>
+                           <l>"'Twas worth a thouſand of <hi>Domitians.</hi>
+                           </l>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>This ſtruck home,</hi> NOL, <hi>ſo far as it went: but His pen ſhould have given thee a touch of more butcheries committed by thy command, and that inſtrumental Preſident.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Oli.</speaker>
+               <p>O Sir, that had been needleſs; I have them all in red Capital Letters writ within me: and as they are houtly pre<g ref="char:EOLhyphen"/>ſented to me; ſo they hourly torture me. Your <hi>Capel, Lucas, Liſle, Slingsby, Aſhton,</hi> with other numberleſs objects (ſuch is the terror of an afflicted conſcience) conſtantly affright me.</p>
+               <p>Neither was it my meaning, but that others ſhould by ſen<g ref="char:EOLhyphen"/>tence of that Court, have ſpeedily followed them. So as, there was nothing that inraged my ſpirit more then the hea<g ref="char:EOLhyphen"/>ring of <hi>Mordant</hi> and <hi>Bennet</hi> to be freed. That indulgence, though juſt enough, ranckled ong within me, and begot in me a fatal diſtemper. For thirſt of blood was grown in me ſo inſatiate, as <hi>guilt</hi> and <hi>innocence</hi> fell together in the ſcale: and became equally liable to a cenſure. Upon my review of theſe, and my tyranizing in theſe, I cannot but acknowledge my ſelf worthily branded with all infamy on earth, but juſtly ſuf<g ref="char:EOLhyphen"/>fering all torments here where I am eternally to remain: Yet being plunged in this depth of miſery, me thinks, huma<g ref="char:EOLhyphen"/>nity ſhould afford me more pitty, then to Libell me. Nei<g ref="char:EOLhyphen"/>ther would it ſo much greive me, if they diſgorged their poy<g ref="char:EOLhyphen"/>ſon in ſtrong lines: but in baſe Ballad ſtuffe to bring in my <hi>Ghſt,</hi> calling upon my Son <hi>RICHARD;</hi> and he not to believe me to be his <hi>Father</hi> (as he might well, for never was <hi>NOL</hi> known ſo void of <hi>Senſe</hi>) were unſufferable, if mine arm could reach ſo far as to puniſh it.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>It ſeems then, that</hi> NOL <hi>will ſooner looſe his</hi> hair <hi>then his</hi> condition. <hi>Fury and revenge lodge in thine heart, whereſoe<g ref="char:EOLhyphen"/>ver thou keep'ſt Garriſon.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>O What other <hi>Muſick</hi> then <hi>Diviſion</hi> can be heard in theſe quarters, where we are all enemies before we know one another! where we act revenge without ground: and practiſe hoſtility at firſt ſight! Thus men divin'd; and this have I found
+<pb n="25" facs="tcp:168652:13"/>
+                  <q>
+                     <l>That I ſhould paſs o're the Stygian Lake,</l>
+                     <l>And as I had brew'd, ſo might I bake.</l>
+                  </q>
+               </p>
+               <p>And have I not <hi>brew'd</hi> bravely, when I thirſt perpetually, and can find nothing to quench me? —O that this ſurly Go<g ref="char:EOLhyphen"/>vernour here would take my <hi>Parole,</hi> how it would refreſh me!</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>True</hi> NOL, <hi>But what ſecurity wouldſt thou enter for thy return? What Bondſmen would untertake for thee?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>O none, none. <hi>I</hi> have forfeited the Bond of my fideli<g ref="char:EOLhyphen"/>ty ſo often, as none will credit me.</p>
+               <p>O that the Engliſh Peerage had been indued with more valour; ſo might they have clipt my wings: and ſtaid me in my Career: the purſuit whereof rendred me in this moſt unhap<g ref="char:EOLhyphen"/>py; in that <hi>I</hi> never felt what misfortune was, being ever ac<g ref="char:EOLhyphen"/>companied with ſucceſs and victory! and what has all this purchaſed me, ſave diſhonour on earth; torture in my recede from earth: and a mark of infamy to the remainder of my ſcornful family, ſo long as they ſhall live upon earth? Now, was not this continued conqueſt a pretious purchaſe? O how <hi>I</hi> am enforced to ſee, what my diſcontented eyes would glad<g ref="char:EOLhyphen"/>ly turn from! Methinks I am now ſmoothly contracting with <hi>Davy Laſhley</hi> for foreſlowing his March, or making him an eaſy enemy by his cool aſſiſtance: which chaffer or martial merchandiſe went on proſperouſly: for <hi>I</hi> found him by mine Agitators as ready to receive, as they were to offer. So as, though he were colourably taken Priſoner, he was privately a State Pentioner: living where he may be moſt ſecure; for in his own country, he cannot promiſe himſelfe any ſafety. So deſpicable he is to thoſe that know him: being rich in for<g ref="char:EOLhyphen"/>tunes, but poor in friends. Such is the reward of his diſloy<g ref="char:EOLhyphen"/>alty, as he knows not whom to truſt, nor with whom to con<g ref="char:EOLhyphen"/>ſort in his times of diſcontent.</p>
+            </sp>
+            <sp>
+               <speaker>Charles.</speaker>
+               <p>
+                  <hi>Surely,</hi> NOL, <hi>thy calamity hath read to thee an ex<g ref="char:EOLhyphen"/>cellent Lecture of Loyalty. Which timely peruſed and digeſted, had ſalved thine honour: and ſecured thee from thoſe terrors and tortures which thou doſt now ſuffer.</hi> —O NOL, <hi>hadſt thou known how betwixt</hi> Finite <hi>and</hi> Infinite <hi>there is no</hi> proportion, <hi>thou wouldſt never have given ſuch reins to thy reſtleſs ambition!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>O Sir, but he that has his Heaven upon Earth, never takes time to think on any other Heaven then earth! This moves
+<pb facs="tcp:168652:14"/>me though all too late, to recal to mind that momentany ſha<g ref="char:EOLhyphen"/>dow of earthly felicity (as <hi>I</hi> formerly term'd it) which <hi>I</hi> there partak't: and to compare it with the preſent condition of my remedileſs pitileſs and endleſs miſery; where <hi>I</hi> can neitehr expect releaſe, not hope of mercy. And amidſt theſe, to re<g ref="char:EOLhyphen"/>member my Court Gamboils, muſick, exquiſite wines and ſociable humoriſts; and compare them with thoſe Sulphur brimſtone Carouſes, and ugly fiends <hi>I</hi> conſort with: into what a gulfe of bitterneſs am <hi>I</hi> plunged? the fluenteſt tongues would appear mute in theſe expreſſes.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>I wonder, NOL, how ſuch an Head-piece, in compa<g ref="char:EOLhyphen"/>riſon of whom,</hi> Machiavel <hi>might be juſtly accounted a</hi> Novice, <hi>could retain, after ſo many ſucceſſefull battels and titular ho<g ref="char:EOLhyphen"/>nours, ſo little ſage in your magnetick ſconce, as to exchange the ſpecious ſplendor of an imperial</hi> Britanny, <hi>foir the hideous horror of an infernal</hi> Tartary.</p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>In anſwer, it was <hi>PROVIDENCE;</hi> a <hi>change</hi> not by my <hi>choice.</hi> But my hope was, before I <hi>deſcended</hi> to it, to make it mine own, and erect a <hi>New Court</hi> of <hi>Iuſtice</hi> in it, as I had formerly done in other countries.</p>
+               <p>And being now removed, and taken napping before I was prepared; I wonder much how the Cardinal <hi>MAZARINE,</hi> that Arch-Engineer of all Diviſion, and profeſt enemy to ci<g ref="char:EOLhyphen"/>vil peace, ſhould have his term of life ſo long continued, and mine ſo ſoon contracted! Should I relate to you ſhadowing<g ref="char:EOLhyphen"/>ly our ſecret counſels, aſſociation, with our mutual and in<g ref="char:EOLhyphen"/>tercurſive <hi>Characteriſme,</hi> by way of intelligence, touching the taking in of <hi>Dunkirk</hi> and <hi>Mardike,</hi> our tranſactions in relation to <hi>Flanders;</hi> you would hold poor <hi>Nol</hi> a ſimple So<g ref="char:EOLhyphen"/>phiſter in the <hi>School</hi> of <hi>Machiaveliſme,</hi> compared to the Cardinal: being of a prompt wit, and profound judgement. One ſo ſociably wiſe, as his company would infinitely con<g ref="char:EOLhyphen"/>tent me. And he demeans himſelf ſo as <hi>I</hi> hope, e're long (if his <hi>Relations</hi> will give way) to ſee him here, and enjoy his company in this Region.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>
+                  <hi>If he ſhould,</hi> NOL, <hi>he would not thank thee either for thy ſociety, or that Courts hoſpitality. He holds himſelf well where he is: and would not change his lodging in</hi> Paris <hi>for all the ſmall hope he has in</hi> Paradiſe: <hi>much leſs for</hi> Pluto's <hi>buſtling</hi> Court, <hi>where there are no conferments of honour, nor projectments ſuit<g ref="char:EOLhyphen"/>able
+<pb n="27" facs="tcp:168652:14"/>to his humour:</hi> His Check roul <hi>there would be both too numerous, and too regardleſs: The Cardinal is a perſon of reſer<g ref="char:EOLhyphen"/>ved State: and ſtands mainly on his punctilio.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>Howſoever, it would glad me much to ſee him; if it were but to chide him, for the diſ-eſteem he had of me, after my remove from him.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>How; diſ-eſteem from your ſworn Brother!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>Or elſe he forſwore himſelf.—Yet no ſooner had the report of my phrentick death (for ſo they fam'd it) croſt the Sea, and ſounded in his ear; then with winged ſpeed he ad<g ref="char:EOLhyphen"/>dreſt his courſe to your <hi>ſWiddow-Queen;</hi> telling her, that he had brought her the happieſt tidings that ever befel her: for her greateſt enemy ſhe had in the world, was dead: which he expreſt with ſuch cheerfulneſs and alacrity, as if it infinitely concern'd himſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>And ſo it did: for then he might hold himſelf the only wiſe man in</hi> Europe.</p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>Pray Sir, was not this done like a Brotherly Cardinal? But, indeed, my long experience of his pretended intimacy had ſchool'd me ſufficiently, if I had retain'd ſo much grace as to have made uſe of it: for there was never any exploir nor deſign tending to my diſadvantage or diſhonor, which I was not put upon by him, or his Beagles. Witneſs that unfortu<g ref="char:EOLhyphen"/>nate voyage to <hi>Iamaica,</hi> wherein ſo many old Souldiers layd down their lives, finding graves where they could find no ground to fight. But that was nothing Souldiers might be re<g ref="char:EOLhyphen"/>cruited; but the vaſt charge which was in that diſhonourable attempt expended, neither is, nor ever will be, I think, diſ<g ref="char:EOLhyphen"/>charged. In which pittiful adventure, I appeal to mine atten<g ref="char:EOLhyphen"/>dants in ordinary and private aſſemblies, with what extempo<g ref="char:EOLhyphen"/>rary prayers, diſſembling tears, and heartleſs ſighs I wearied heaven as well as my hearers for the good ſucceſs of thoſe ſea<g ref="char:EOLhyphen"/>faring Souldiers: wherein I am perſwaded, as the time was af<g ref="char:EOLhyphen"/>terwards computed, that my devotion was liable to a <hi>Romiſh</hi> error, being offered long after they were maſacred. So little available were all our <hi>Fasts</hi> and <hi>Humiliation</hi> to thoſe diſtreſ<g ref="char:EOLhyphen"/>ſed and diſlaughter'd Souldiers. The more <hi>I held forth</hi> to the people, the worſe news heard the people of them.</p>
+               <p>Other Ports and Holds too by his advice took <hi>I</hi> in; the
+<pb n="28" facs="tcp:168652:15"/>holding whereof coſt more, then the revenues or convenien<g ref="char:EOLhyphen"/>ces of thoſe Places would defray. And one of the conſidera<g ref="char:EOLhyphen"/>bleſt which <hi>I</hi> there left, will be ſhortly, <hi>I</hi> am pereſwaded, by a Truſtee of your <hi>betraying Nation,</hi> freely rendred: and for a money matter, by way of <hi>ſale,</hi> juſt as they dealt with you, clearlie acquitted and conveyed. Now, from whence came all theſe mercenarie contracts, or bargains of ſale, but from the <hi>Cardinals Hat?</hi> which has found a <hi>Cap of Maintenance</hi> fot thoſe factious ſpirits of <hi>France,</hi> for many years together.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>Vice having once got an habit is not quickly removed. Ambition when it rides on Cock-horſe, ſcorns to be diſmounted, till it be unhors'd. So fares it with that</hi> Statizing Prelat; <hi>who, though it be his ſecureſt way to</hi> fiſh <hi>in</hi> troubled waters, <hi>he muſt periſh on</hi> dry land, <hi>when his</hi> pretending Favorites <hi>ſhall deſert him; and the</hi> Queens ſide <hi>leave him to himſelf.</hi> His unfea<g ref="char:EOLhyphen"/>ther'd policie <hi>will not then ſave him.—But tell me NOL, why wouldſt thou have that</hi> Cardinal <hi>tranſlated?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>That he may more ſenſibly feel what <hi>I</hi> through his counſel and my own deſigns ſhall and have ſuffered.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>No,</hi> NOL, <hi>that's not it. I ſmell thy drift; thou wouldſt have the</hi> Cardinal <hi>remov'd, that by his</hi> deſcenſion <hi>thou might be made his</hi> Chaplain.</p>
+            </sp>
+            <sp>
+               <speaker>Col.</speaker>
+               <p>Not ſo Sir; though <hi>I</hi> have been in my time a <hi>ſtipendia<g ref="char:EOLhyphen"/>ry predicant; I</hi> would not ſtoop ſo low as become any ſuch <hi>Machiavilian Deacon. I</hi> was lately the enjoyeer of your Royal Exchequer; having the <hi>State-purſe</hi> at command: wherewith my neceſſities made me ſo bold, as by my vaſt expence occa<g ref="char:EOLhyphen"/>ſioned from ſome deſperate and unfortunate adventures, <hi>I</hi> have laid ſuch an <hi>heap</hi> of <hi>ſtones</hi> at WALLINGFORD Court-gate, as will not be eaſilie removed: ſix millions thick (the <hi>Commonwealth</hi> being already ſo much exhuaſted) will not be ſo quicklie diſcharged. This makes me grin and laugh beyond meaſure amidſt my ſufferings.</p>
+            </sp>
+            <sp>
+               <speaker>Ch.</speaker>
+               <p>
+                  <hi>And I will leave thee in that poſture of malicious laugh<g ref="char:EOLhyphen"/>ter.—Bid thee</hi> farewel, <hi>I will not; that</hi> ſalute <hi>were uſeleſs.</hi>
+               </p>
+               <p>
+                  <hi>Thine actions were ſuch ſtrangers to all goodneſs, as they have eſtrang'd thee from all hope of happineſs.</hi>
+               </p>
+               <p>
+                  <hi>Rest in thy reſt leſs condition,</hi>
+                  <note place="margin">
+                     <hi>Elyſium</hi> Charides, Hic Acha<g ref="char:EOLhyphen"/>rontam petit.</note> 
+                  <hi>hapleſs, helpleſs, hopeleſs.—Adue, adue.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ol.</speaker>
+               <p>Thus muſt <hi>I</hi> here remain ever dying, ever living, relin<g ref="char:EOLhyphen"/>quiſh't of all humane Society, reft of all viſible comfort to E<g ref="char:EOLhyphen"/>ternity.—<hi>Adue, adue.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
